@@ -1,4 +1,4 @@
 # hello-world
 Git training
 
-Like flower.
+Like tomato.
